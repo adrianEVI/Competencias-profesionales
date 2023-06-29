@@ -7,6 +7,7 @@ En esta carpeta se encuentran libretas de Jupyter notebook con algunos de los an
     
 * GeneracionMapasHoraMayorFrecuencia
   * Se generan mapas donde se puede visualizar la hora donde se presenta mayor actividad en las diversas zonas
+  * En la carpeta de MapasEjemplos se pueden visualizar algunos mapas generados, estos estan en formato html
  
 * GeneraciónMapasDeCalor
   * Se generan imágenes que representan el mapa de calor de las frecuencias registradas en un periodo de tiempo que serán utilizadas para desarrollar un modelo de predicción
