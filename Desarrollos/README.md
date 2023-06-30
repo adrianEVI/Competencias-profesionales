@@ -12,4 +12,4 @@ En esta carpeta se encuentran libretas de Jupyter notebook con algunos de los an
 * GeneraciónMapasDeCalor
   * Se generan imágenes que representan el mapa de calor de las frecuencias registradas en un periodo de tiempo que serán utilizadas para desarrollar un modelo de predicción
  
-Actualmente, se encuentra en desarrollo un modelo de predicción con la intención de predecir futura actividad de caída de rayos en los próximos minutos.
+Actualmente, se encuentra en desarrollo un modelo de predicción con la intención de predecir futura actividad de caída de rayos, conforme se va desarrollando sé ira actualizando el contenido en esta carpeta.
